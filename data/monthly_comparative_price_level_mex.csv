@@ -1,0 +1,38 @@
+,INDIC,Indicator,CPL_COUNTRY,Country currency,TIME,Time,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value
+17,CPL,Comparative price levels,AUS,Australia AUD,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,45
+51,CPL,Comparative price levels,AUT,Austria EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,49
+85,CPL,Comparative price levels,BEL,Belgium EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,48
+119,CPL,Comparative price levels,CAN,Canada CAD,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,48
+153,CPL,Comparative price levels,CHL,Chile CLP,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,75
+187,CPL,Comparative price levels,CZE,Czech Republic CZK,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,77
+221,CPL,Comparative price levels,DNK,Denmark DKK,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,39
+255,CPL,Comparative price levels,FIN,Finland EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,44
+289,CPL,Comparative price levels,FRA,France EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,49
+323,CPL,Comparative price levels,DEU,Germany EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,51
+357,CPL,Comparative price levels,GRC,Greece EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,65
+391,CPL,Comparative price levels,HUN,Hungary HUF,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,92
+425,CPL,Comparative price levels,ISL,Iceland ISK,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,40
+459,CPL,Comparative price levels,IRL,Ireland EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,42
+493,CPL,Comparative price levels,ITA,Italy EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,54
+527,CPL,Comparative price levels,JPN,Japan JPY,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,42
+561,CPL,Comparative price levels,KOR,Korea KRW,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,56
+595,CPL,Comparative price levels,LUX,Luxembourg EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,42
+629,CPL,Comparative price levels,MEX,Mexico MXN,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,100
+663,CPL,Comparative price levels,NLD,Netherlands EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,47
+697,CPL,Comparative price levels,NZL,New Zealand NZD,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,46
+731,CPL,Comparative price levels,NOR,Norway NOK,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,43
+765,CPL,Comparative price levels,POL,Poland PLN,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,95
+799,CPL,Comparative price levels,PRT,Portugal EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,62
+833,CPL,Comparative price levels,SVK,Slovak Republic EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,67
+867,CPL,Comparative price levels,ESP,Spain EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,58
+901,CPL,Comparative price levels,SWE,Sweden SEK,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,48
+935,CPL,Comparative price levels,CHE,Switzerland CHF,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,33
+969,CPL,Comparative price levels,TUR,Turkey TRY,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,127
+1003,CPL,Comparative price levels,GBR,United Kingdom GBP,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,45
+1037,CPL,Comparative price levels,USA,United States USD,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,44
+1071,CPL,Comparative price levels,EST,Estonia EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,67
+1105,CPL,Comparative price levels,ISR,Israel ILS,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,38
+1139,CPL,Comparative price levels,SVN,Slovenia EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,64
+1207,CPL,Comparative price levels,LVA,Latvia EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,71
+1277,CPL,Comparative price levels,LTU,Lithuania EUR,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,80
+1349,CPL,Comparative price levels,COL,Colombia COP,2020-04,Apr-2020,NATCUR,National currency,0,Units,,,118

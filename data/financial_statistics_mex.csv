@@ -1,0 +1,50 @@
+,SUBJECT,Subject,FREQUENCY,Frequency,TIME,Time,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value
+641,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,8.24
+642,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,7.68
+643,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,7.53
+644,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,7.08
+645,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,6.87
+646,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,7.14
+647,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,6.85
+648,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,6.47
+649,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,7.37
+650,IRLT,"Long-term interest rates, Per cent per annum",M,Monthly,2020-05,May-2020,PC,Percentage,0,Units,,,6.06
+651,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-05,May-2019,NATUSD,National currency per US dollar,0,Units,,,19.08361
+652,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-06,Jun-2019,NATUSD,National currency per US dollar,0,Units,,,19.21239
+653,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-07,Jul-2019,NATUSD,National currency per US dollar,0,Units,,,19.01641
+654,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-08,Aug-2019,NATUSD,National currency per US dollar,0,Units,,,19.65246
+655,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-09,Sep-2019,NATUSD,National currency per US dollar,0,Units,,,19.54335
+656,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-10,Oct-2019,NATUSD,National currency per US dollar,0,Units,,,19.298370000000002
+657,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-11,Nov-2019,NATUSD,National currency per US dollar,0,Units,,,19.28695
+658,CCUS,"Currency exchange rates, monthly average",M,Monthly,2019-12,Dec-2019,NATUSD,National currency per US dollar,0,Units,,,19.07966
+659,CCUS,"Currency exchange rates, monthly average",M,Monthly,2020-01,Jan-2020,NATUSD,National currency per US dollar,0,Units,,,18.77574
+660,CCUS,"Currency exchange rates, monthly average",M,Monthly,2020-02,Feb-2020,NATUSD,National currency per US dollar,0,Units,,,18.8019
+661,CCUS,"Currency exchange rates, monthly average",M,Monthly,2020-03,Mar-2020,NATUSD,National currency per US dollar,0,Units,,,22.142039999999998
+662,CCUS,"Currency exchange rates, monthly average",M,Monthly,2020-04,Apr-2020,NATUSD,National currency per US dollar,0,Units,,,24.10105
+663,CCUS,"Currency exchange rates, monthly average",M,Monthly,2020-05,May-2020,NATUSD,National currency per US dollar,0,Units,,,23.3341
+664,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,8.51
+665,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,8.52
+666,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,8.45
+667,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,8.33
+668,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,8.11
+669,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,7.89
+670,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,7.7
+671,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,7.56
+672,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,7.44
+673,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,7.3
+674,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,6.98
+675,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,6.43
+676,IR3TIB,"Short-term interest rates, Per cent per annum",M,Monthly,2020-05,May-2020,PC,Percentage,0,Units,,,5.93
+677,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,5.78
+678,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,5.81
+679,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,6.46
+680,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,6.58
+681,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,6.46
+682,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,6.25
+683,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,6.11
+684,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,5.95
+685,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,5.78
+686,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,5.71
+687,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,5.53
+688,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,5.3
+689,IRSTCI,"Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",M,Monthly,2020-05,May-2020,PC,Percentage,0,Units,,,4.92

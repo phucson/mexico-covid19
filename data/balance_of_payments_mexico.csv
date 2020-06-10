@@ -1,0 +1,400 @@
+,SUBJECT,Subject,MEASURE,Measure,FREQUENCY,Frequency,TIME,Time,Unit Code,Unit,PowerCode Code,PowerCode,Value
+24461,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,11702.75
+24462,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,10322.7
+24463,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,13301.39
+24464,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,10808.06
+24465,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,13406.57
+24466,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,11820.02
+24467,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,13355.87
+24468,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,12228.05
+24469,B6DBPI01,"Primary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,10547.36
+37521,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-11174.0
+37522,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-3833.3
+37523,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-6613.7
+37524,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-3637.0
+37525,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-11141.0
+37526,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,4389.5
+37527,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-787.2
+37528,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3197.7
+37529,B6BLTT01,"Current account, balance",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-981.8
+37530,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-1765.7
+37531,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-2783.1
+37532,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-5803.3
+37533,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-3415.1
+37534,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-1815.3
+37535,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,4961.9
+37536,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-1099.8
+37537,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3165.0
+37538,B6BLTD01,"Goods, balance",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,3689.1
+37539,B6CRTD01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,105385.0
+37540,B6CRTD01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,113971.9
+37541,B6CRTD01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,114084.0
+37542,B6CRTD01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,117641.7
+37543,B6CRTD01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,108176.3
+37550,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,119887.3
+37551,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,121056.8
+37552,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,109991.6
+37553,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,114395.8
+37554,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,117551.8
+37555,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,113888.5
+37556,B6DBTD01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,104911.7
+37557,B6BLSE01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-1902.0
+37558,B6BLSE01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-2856.1
+37559,B6BLSE01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-3647.9
+37560,B6BLSE01,"Goods, credits (exports)",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-2782.4
+37561,B6BLSE01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-1265.5
+37562,B6BLSE01,"Goods, debits (imports)",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-1650.6
+37563,B6BLSE01,"Services, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-3907.9
+37564,B6BLSE01,"Services, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-1445.4
+37565,B6BLSE01,"Services, balance",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-1165.9
+37566,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,7882.5
+37567,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,6946.0
+37568,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,6640.2
+37569,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,7544.8
+37570,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,8727.7
+37571,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,7942.6
+37572,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,6940.3
+37573,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,8072.8
+37574,B6CRSE01,"Services, credits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,7814.8
+37575,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,9784.5
+37576,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,9802.1
+37577,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,10288.1
+37578,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,10327.2
+37579,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,9993.2
+37580,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,9593.2
+37581,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,10848.2
+37582,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,9518.2
+37583,B6DBSE01,"Services, debits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,8980.7
+37584,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-14514.6
+37585,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-7031.3
+37586,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-5431.8
+37587,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-6209.5
+37588,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-15740.6
+37589,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-8135.7
+37590,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-5259.2
+37591,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-7427.0
+37592,B6BLPI01,"Primary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-12640.3
+37593,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,2801.6
+37594,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,3458.1
+37595,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,3530.4
+37596,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,3157.6
+37597,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,4017.8
+37598,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,3645.3
+37599,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,3553.2
+37600,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3031.7
+37601,B6CRPI01,"Primary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2419.2
+37602,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,7008.3
+37603,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,8837.3
+37604,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,8269.2
+37605,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,8769.9
+37606,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,7680.3
+37607,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,9213.9
+37608,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,9479.8
+37609,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,8905.1
+37610,B6BLSI01,"Secondary income, balance",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,9135.3
+37611,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,7257.1
+37612,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,9130.4
+37613,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,8532.4
+37614,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,9046.1
+37615,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,7926.2
+37616,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,9479.2
+37617,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,9773.0
+37618,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,9181.7
+37619,B6CRSI01,"Secondary income, credits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,9377.4
+37620,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,248.8
+37621,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,293.1
+37622,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,263.2
+37623,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,276.2
+37624,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,245.9
+37625,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,265.3
+37626,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,293.2
+37627,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,276.6
+37628,B6DBSI01,"Secondary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,242.1
+37629,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-8736.0
+37630,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-4868.1
+37631,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-10095.9
+37632,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-9800.9
+37633,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-10407.2
+37634,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-1715.0
+37635,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-589.7
+37636,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-2229.3
+37637,B6FATT01,"Financial account, net",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-3454.6
+37638,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,4500.5
+37639,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,3882.9
+37640,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,2836.5
+37641,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,404.8
+37642,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,2204.8
+37643,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,729.3
+37644,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,2337.1
+37645,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,776.8
+37646,B6FADI02,"Direct investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,5016.4
+37647,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,15074.8
+37648,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,11187.0
+37649,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,5499.4
+37650,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,6980.4
+37651,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,13546.6
+37652,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,5864.4
+37653,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,6472.6
+37654,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3755.3
+37655,B6FADI03,"Direct investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,14077.8
+37656,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,1809.4
+37657,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,6145.8
+37658,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-3705.2
+37659,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-3142.7
+37660,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-209.8
+37661,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,2681.1
+37662,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-1150.4
+37663,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,2240.1
+37664,B6FAPI02,"Portfolio investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-323.6
+37665,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,6147.6
+37666,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,7200.3
+37667,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-1840.2
+37668,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-2009.2
+37669,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,8273.8
+37670,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-975.2
+37671,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,1705.4
+37672,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,583.5
+37673,B6FAPI03,"Portfolio investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2823.3
+37674,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,138.7
+37675,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,904.7
+37676,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,468.7
+37677,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-1145.7
+37678,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-65.3
+37679,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-165.1
+37680,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,680.2
+37681,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,1559.5
+37682,B6FAFD01,"Financial derivatives, net",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,1878.2
+37683,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,17316.2
+37684,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,10489.4
+37685,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,8962.2
+37686,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,9367.1
+37687,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,19758.4
+37688,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,11781.0
+37689,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,8812.4
+37690,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,10458.7
+37691,B6DBPI01,"Primary income, debits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,15059.5
+37692,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,16657.6
+37693,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,13794.3
+37694,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-3888.8
+37695,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-5115.6
+37696,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,11079.7
+37697,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,9210.7
+37698,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,1496.5
+37699,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,5432.7
+37700,B6FATC01,"Financial account, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,15921.2
+37701,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,25393.6
+37702,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,18662.4
+37703,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,6207.1
+37704,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,4685.3
+37705,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,21486.8
+37706,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,10925.7
+37707,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,2086.1
+37708,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,7662.1
+37709,B6FATD01,"Financial account, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,19375.8
+37710,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-10574.3
+37711,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-7304.2
+37712,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-2662.9
+37713,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-6575.7
+37714,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-11341.8
+37715,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-5135.2
+37716,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-4135.5
+37717,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-2978.5
+37718,B6FADI01,"Direct investment, net",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-9061.5
+37719,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-4338.3
+37720,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-1054.5
+37721,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-1865.0
+37722,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-1133.5
+37723,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-8483.6
+37724,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,3656.3
+37725,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-2855.9
+37726,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,1656.6
+37727,B6FAPI10,"Portfolio investment, net",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-3146.9
+37728,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,3909.3
+37729,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,1674.5
+37730,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-5213.9
+37731,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,787.7
+37732,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,5059.3
+37733,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-2621.4
+37734,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,9823.1
+37735,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-2232.1
+37736,B6FAOI01,"Other investment, net",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2575.2
+37737,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,123326.2
+37738,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,133506.4
+37739,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,132787.0
+37740,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,137390.3
+37741,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,128848.1
+37742,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,140424.8
+37743,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,136718.5
+37744,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,137339.7
+37745,B6CRTT01,"Current account, credits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,128212.2
+37746,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,134500.2
+37747,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,137339.7
+37748,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,139400.7
+37749,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,141027.3
+37750,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,139989.1
+37751,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,136035.3
+37752,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,137505.7
+37753,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,134142.0
+37754,B6DBTT01,"Current account, debits",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,129194.0
+37755,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-4590.1140000000005
+37756,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-5943.168000000001
+37757,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-9363.315
+37758,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-5361.5019999999995
+37759,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-5720.703
+37760,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,2099.686
+37761,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-2383.752
+37762,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,1663.7679999999998
+37763,B6BLTT01,"Current account, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2870.0759999999996
+37764,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-614.874
+37765,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-4713.635
+37766,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-5087.982
+37767,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-3350.708
+37768,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-2430.016
+37769,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,2906.656
+37770,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,1347.7520000000002
+37771,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3387.409
+37772,B6BLTD01,"Goods, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,3709.915
+37773,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,110907.8
+37774,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,111750.7
+37775,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,113722.7
+37776,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,114701.5
+37777,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,113848.6
+37778,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,117026.6
+37779,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,116006.0
+37780,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,114158.2
+37781,B6CRTD01,"Goods, credits (exports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,114348.9
+37782,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,111522.6
+37783,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,116464.4
+37784,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,118810.6
+37785,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,118052.2
+37786,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,116278.6
+37787,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,114120.0
+37788,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,114658.3
+37789,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,110770.8
+37790,B6DBTD01,"Goods, debits (imports)",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,110639.0
+37791,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-2983.39
+37792,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-2611.396
+37793,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-2699.7290000000003
+37794,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-2893.885
+37795,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-2411.827
+37796,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-1366.066
+37797,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-2927.494
+37798,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-1564.013
+37799,B6BLSE01,"Services, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-2228.291
+37800,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,7152.7080000000005
+37801,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,7181.568
+37802,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,7242.371999999999
+37803,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,7436.853
+37804,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,7933.048000000001
+37805,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,8219.101
+37806,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,7573.408
+37807,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,7957.843000000001
+37808,B6CRSE01,"Services, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,7104.446
+37809,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,10136.1
+37810,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,9792.963
+37811,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,9942.101
+37812,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,10330.74
+37813,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,10344.88
+37814,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,9585.166
+37815,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,10500.9
+37816,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,9521.856
+37817,B6DBSE01,"Services, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,9332.737
+37818,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,-8901.15
+37819,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-6864.604
+37820,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-9770.99
+37821,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-7650.456
+37822,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-9388.767
+37823,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-8174.719
+37824,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-9802.669
+37825,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-9196.347
+37826,B6BLPI01,"Primary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-8128.161999999999
+37827,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,2801.6
+37828,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,3458.1
+37829,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,3530.4
+37830,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,3157.6
+37831,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,4017.8
+37832,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,3645.3
+37833,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,3553.2
+37834,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3031.7
+37835,B6CRPI01,"Primary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2419.2
+37836,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,7909.3009999999995
+37837,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,8246.466
+37838,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,8195.386
+37839,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,8533.546999999999
+37840,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,8509.907
+37841,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,8733.814
+37842,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,8998.659
+37843,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,9036.72
+37844,B6BLSI01,"Secondary income, balance",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,9516.614
+37845,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,8158.101
+37846,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,8539.565
+37847,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,8458.586
+37848,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,8809.747
+37849,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,8755.808
+37850,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,8999.114
+37851,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,9291.859
+37852,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,9313.319
+37853,B6CRSI01,"Secondary income, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,9758.714
+37854,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,248.8
+37855,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,293.1
+37856,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,263.2
+37857,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,276.2
+37858,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,245.9
+37859,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,265.3
+37860,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,293.2
+37861,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,276.6
+37862,B6DBSI01,"Secondary income, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,242.1
+37863,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,129020.2
+37864,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,130930.0
+37865,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,132954.0
+37866,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,134105.7
+37867,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,134555.3
+37868,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,137890.2
+37869,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,136424.5
+37870,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,134461.1
+37871,B6CRTT01,"Current account, credits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,133631.2
+37872,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,133610.3
+37873,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,136873.1
+37874,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,142317.3
+37875,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,139467.2
+37876,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,140276.0
+37877,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,135790.5
+37878,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,138808.3
+37879,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,132797.3
+37880,B6DBTT01,"Current account, debits",CXCUSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,130761.1
+37881,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,8080.6
+37882,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,1949.6
+37883,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-2666.0
+37884,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,501.8
+37885,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,4725.7
+37886,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,3415.1
+37887,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,3731.2
+37888,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,1091.2
+37889,B6FAOI02,"Other investment, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,5049.9
+37890,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,4171.2
+37891,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,275.1
+37892,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,2547.9
+37893,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-285.9
+37894,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,-333.6
+37895,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,6036.5
+37896,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-6091.9
+37897,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,3323.3
+37898,B6FAOI03,"Other investment, net incurrence of liabilities",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,2474.7
+37899,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,2128.4
+37900,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,911.3
+37901,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-822.8
+37902,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-1733.8
+37903,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,4424.3
+37904,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,2550.3
+37905,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,-4101.6
+37906,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-234.9
+37907,B6FARA01,"Reserve assets, net acquisition of financial assets",CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,4300.3
+38879,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2018-Q1,Q1-2018,USD,US Dollar,6,Millions,2461.8
+38880,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2018-Q2,Q2-2018,USD,US Dollar,6,Millions,-1023.9
+38881,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2018-Q3,Q3-2018,USD,US Dollar,6,Millions,-3464.7
+38882,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,6,Millions,-6151.5
+38883,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,6,Millions,768.4
+38884,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,6,Millions,-6102.3
+38885,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,6,Millions,206.1
+38886,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,6,Millions,-5416.6
+38887,B6EOTT01,Net errors and omissions,CXCU,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,6,Millions,-2465.0

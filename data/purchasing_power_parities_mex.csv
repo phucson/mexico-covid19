@@ -1,0 +1,45 @@
+,INDIC,Indicator,TIME,Time,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value
+748,PPP,Purchasing Power Parities,2009,2009,NATUSD,National currency per US dollar,0,Units,,,7.43
+749,PPP,Purchasing Power Parities,2010,2010,NATUSD,National currency per US dollar,0,Units,,,7.68
+750,PPP,Purchasing Power Parities,2011,2011,NATUSD,National currency per US dollar,0,Units,,,7.67
+751,PPP,Purchasing Power Parities,2012,2012,NATUSD,National currency per US dollar,0,Units,,,7.86
+752,PPP,Purchasing Power Parities,2013,2013,NATUSD,National currency per US dollar,0,Units,,,7.88
+753,PPP,Purchasing Power Parities,2014,2014,NATUSD,National currency per US dollar,0,Units,,,8.05
+754,PPP,Purchasing Power Parities,2015,2015,NATUSD,National currency per US dollar,0,Units,,,8.33
+755,PPP,Purchasing Power Parities,2016,2016,NATUSD,National currency per US dollar,0,Units,,,8.45
+756,PPP,Purchasing Power Parities,2017,2017,NATUSD,National currency per US dollar,0,Units,,,8.87
+757,PPP,Purchasing Power Parities,2018,2018,NATUSD,National currency per US dollar,0,Units,,,9.13
+758,PPP,Purchasing Power Parities,2019,2019,NATUSD,National currency per US dollar,0,Units,,,9.28
+759,CPL,Comparative Price Levels,2009,2009,OECDIDX,OECD=100,0,Units,,,55.0
+760,CPL,Comparative Price Levels,2010,2010,OECDIDX,OECD=100,0,Units,,,60.0
+761,CPL,Comparative Price Levels,2011,2011,OECDIDX,OECD=100,0,Units,,,59.0
+762,CPL,Comparative Price Levels,2012,2012,OECDIDX,OECD=100,0,Units,,,60.0
+763,CPL,Comparative Price Levels,2013,2013,OECDIDX,OECD=100,0,Units,,,64.0
+764,CPL,Comparative Price Levels,2014,2014,OECDIDX,OECD=100,0,Units,,,63.0
+765,CPL,Comparative Price Levels,2015,2015,OECDIDX,OECD=100,0,Units,,,60.0
+766,CPL,Comparative Price Levels,2016,2016,OECDIDX,OECD=100,0,Units,,,53.0
+767,CPL,Comparative Price Levels,2017,2017,OECDIDX,OECD=100,0,Units,,,55.0
+768,CPL,Comparative Price Levels,2018,2018,OECDIDX,OECD=100,0,Units,,,55.0
+769,CPL,Comparative Price Levels,2019,2019,OECDIDX,OECD=100,0,Units,,,57.0
+770,CUR,Current PPPs,2009,2009,OECDIDX,OECD=100,0,Units,,,44.0
+771,CUR,Current PPPs,2010,2010,OECDIDX,OECD=100,0,Units,,,44.0
+772,CUR,Current PPPs,2011,2011,OECDIDX,OECD=100,0,Units,,,46.0
+773,CUR,Current PPPs,2012,2012,OECDIDX,OECD=100,0,Units,,,47.0
+774,CUR,Current PPPs,2013,2013,OECDIDX,OECD=100,0,Units,,,46.0
+775,CUR,Current PPPs,2014,2014,OECDIDX,OECD=100,0,Units,,,46.0
+776,CUR,Current PPPs,2015,2015,OECDIDX,OECD=100,0,Units,,,46.0
+777,CUR,Current PPPs,2016,2016,OECDIDX,OECD=100,0,Units,,,47.0
+778,CUR,Current PPPs,2017,2017,OECDIDX,OECD=100,0,Units,,,46.0
+779,CUR,Current PPPs,2018,2018,OECDIDX,OECD=100,0,Units,,,46.0
+780,CUR,Current PPPs,2019,2019,OECDIDX,OECD=100,0,Units,,,45.0
+781,CST,Constant 2015 PPPs,2009,2009,OECDIDX,OECD=100,0,Units,,,49.0
+782,CST,Constant 2015 PPPs,2010,2010,OECDIDX,OECD=100,0,Units,,,50.0
+783,CST,Constant 2015 PPPs,2011,2011,OECDIDX,OECD=100,0,Units,,,50.0
+784,CST,Constant 2015 PPPs,2012,2012,OECDIDX,OECD=100,0,Units,,,51.0
+785,CST,Constant 2015 PPPs,2013,2013,OECDIDX,OECD=100,0,Units,,,50.0
+786,CST,Constant 2015 PPPs,2014,2014,OECDIDX,OECD=100,0,Units,,,50.0
+787,CST,Constant 2015 PPPs,2015,2015,OECDIDX,OECD=100,0,Units,,,50.0
+788,CST,Constant 2015 PPPs,2016,2016,OECDIDX,OECD=100,0,Units,,,51.0
+789,CST,Constant 2015 PPPs,2017,2017,OECDIDX,OECD=100,0,Units,,,50.0
+790,CST,Constant 2015 PPPs,2018,2018,OECDIDX,OECD=100,0,Units,,,50.0
+791,CST,Constant 2015 PPPs,2019,2019,OECDIDX,OECD=100,0,Units,,,49.0

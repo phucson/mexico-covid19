@@ -1,0 +1,401 @@
+,SUBJECT,Subject,MEASURE,Measure,FREQUENCY,Frequency,TIME,Time,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value
+832,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,-1.4037709999999999
+833,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,-2.249977
+834,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,0.17683629999999997
+835,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,-1.054915
+836,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,-0.03767911
+837,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,-0.01238314
+838,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,0.1808058
+839,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,0.6425525
+840,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,1.134922
+841,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,0.2552024
+842,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,1.4173360000000002
+843,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,0.5533909
+844,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,0.3666547
+845,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,0.742861
+846,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,1.3206040000000001
+847,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,1.708809
+848,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,1.338925
+849,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,1.8726180000000001
+850,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,-4.292707
+1649,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,-3.4769120000000004
+1650,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,-1.104977
+1651,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,1.95828
+1652,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,2.2259290000000003
+1653,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,2.43012
+1654,XTNTVA01,Net trade in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,4.9203529999999995
+1969,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,113.6957
+1970,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,114.8183
+1971,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,116.9748
+1972,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,115.9885
+1973,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,112.7801
+1974,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,113.9514
+2620,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,38.08184
+2621,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,37.42406
+2622,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,38.1898
+2623,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,38.0202
+2624,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,38.39125
+2625,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,38.40681
+2626,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,38.96152
+2627,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,39.28561
+2628,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,38.727709999999995
+2629,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,38.523070000000004
+2630,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,39.52502
+2631,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,37.9404
+2632,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,37.44522
+2633,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,37.4381
+2634,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,37.896770000000004
+2635,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,39.3558
+2636,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,38.03617
+2637,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,36.5594
+2638,XTEXVA01,Exports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,22.78709
+2985,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,39.485620000000004
+2986,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,39.674040000000005
+2987,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,38.01297
+2988,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,39.07512
+2989,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,38.428940000000004
+2990,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,38.4192
+2991,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,38.78071
+2992,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,38.64305
+2993,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,37.5928
+2994,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,38.26787
+2995,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,38.107690000000005
+2996,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,37.38701
+2997,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,37.07857
+2998,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,36.69523
+2999,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,36.57617
+3000,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,37.647
+3001,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,36.69724
+3002,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,34.68679
+3003,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,27.079790000000003
+3271,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,117.1726
+3272,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,115.9232
+3273,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,115.0166
+3274,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,113.7626
+3275,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,110.35
+3276,XTIMVA01,Imports in goods (value),CXMLSA,"US-Dollar converted, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,109.031
+4671,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,117.5493
+4672,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,108.0953
+4673,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,119.2682
+4674,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,116.3705
+4675,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,116.9699
+4676,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,108.5222
+4677,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,120.9126
+4678,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,109.8683
+4679,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,114.2599
+4680,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,117.4105
+4681,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,113.7566
+4682,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,104.7998
+4683,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2018-Q4,Q4-2018,USD,US Dollar,9,Billions,,,-3.36331
+4684,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q1,Q1-2019,USD,US Dollar,9,Billions,,,-1.7730259999999998
+4685,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q2,Q2-2019,USD,US Dollar,9,Billions,,,5.008308
+4686,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q3,Q3-2019,USD,US Dollar,9,Billions,,,-1.040044
+4687,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2019-Q4,Q4-2019,USD,US Dollar,9,Billions,,,3.213278
+4688,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,Q,Quarterly,2020-Q1,Q1-2020,USD,US Dollar,9,Billions,,,3.722428
+4689,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,2248.009
+4690,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,2200.337
+4691,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,2231.577
+4692,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,2250.817
+4693,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,2167.756
+4694,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,2263.5860000000002
+4695,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,2316.719
+4696,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,2221.493
+4697,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,2194.0860000000002
+4698,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,2207.295
+4699,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,2121.156
+4700,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,2164.864
+4701,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,-68.71011
+4702,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,-21.15547
+4703,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,37.4907
+4704,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,43.52228
+4705,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,46.60003
+4706,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,98.72209000000001
+4707,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2018-Q4,Q4-2018,PC,Percentage,0,Units,,,-0.6788908
+4708,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q1,Q1-2019,PC,Percentage,0,Units,,,0.9873357
+4709,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q2,Q2-2019,PC,Percentage,0,Units,,,1.878243
+4710,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q3,Q3-2019,PC,Percentage,0,Units,,,-0.8432054
+4711,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q4,Q4-2019,PC,Percentage,0,Units,,,-2.766145
+4712,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2020-Q1,Q1-2020,PC,Percentage,0,Units,,,1.038555
+4713,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2018-Q4,Q4-2018,PC,Percentage,0,Units,,,-0.3612936
+4714,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q1,Q1-2019,PC,Percentage,0,Units,,,-1.06627
+4715,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q2,Q2-2019,PC,Percentage,0,Units,,,-0.7821475999999999
+4716,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q3,Q3-2019,PC,Percentage,0,Units,,,-1.090267
+4717,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2019-Q4,Q4-2019,PC,Percentage,0,Units,,,-2.999757
+4718,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,Q,Quarterly,2020-Q1,Q1-2020,PC,Percentage,0,Units,,,-1.195243
+4719,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2018-Q4,Q4-2018,PC,Percentage,0,Units,,,5.742906
+4720,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q1,Q1-2019,PC,Percentage,0,Units,,,3.101664
+4721,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q2,Q2-2019,PC,Percentage,0,Units,,,5.277141
+4722,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q3,Q3-2019,PC,Percentage,0,Units,,,1.3240180000000001
+4723,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q4,Q4-2019,PC,Percentage,0,Units,,,-0.8053281
+4724,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2020-Q1,Q1-2020,PC,Percentage,0,Units,,,-0.7550183000000001
+4725,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2018-Q4,Q4-2018,PC,Percentage,0,Units,,,6.307411
+4726,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q1,Q1-2019,PC,Percentage,0,Units,,,2.268641
+4727,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q2,Q2-2019,PC,Percentage,0,Units,,,-0.5432007
+4728,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q3,Q3-2019,PC,Percentage,0,Units,,,-3.261062
+4729,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2019-Q4,Q4-2019,PC,Percentage,0,Units,,,-5.822739
+4730,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,Q,Quarterly,2020-Q1,Q1-2020,PC,Percentage,0,Units,,,-5.945511
+9817,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,41.35625
+9818,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,38.595459999999996
+9819,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,37.59755
+9820,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,32.63773
+9821,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,36.43803
+9822,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,39.019529999999996
+9823,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,39.58657
+9824,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,41.75219
+9825,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,37.9294
+9826,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,39.12727
+9827,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,40.05728
+9828,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,37.18591
+9829,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,40.76852
+9830,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,37.47253
+9831,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,38.728840000000005
+9832,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,33.587790000000005
+9833,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,36.59176
+9834,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,38.3427
+9835,XTEXVA01,Exports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,23.3848
+9836,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,44.290890000000005
+9837,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,40.928709999999995
+9838,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,35.69297
+9839,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,37.263000000000005
+9840,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,35.074090000000005
+9841,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,37.531220000000005
+9842,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,38.07687
+9843,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,40.794740000000004
+9844,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,35.38825
+9845,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,40.4173
+9846,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,39.65511
+9847,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,37.3381
+9848,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,41.45627
+9849,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,36.70537
+9850,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,35.59497
+9851,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,36.06889
+9852,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,33.72376
+9853,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,35.00716
+9854,XTIMVA01,Imports in goods (value),CXML,US-Dollar converted,M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,26.4722
+9855,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2018-10,Oct-2018,USD,US Dollar,9,Billions,,,-2.934638
+9856,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2018-11,Nov-2018,USD,US Dollar,9,Billions,,,-2.333252
+9857,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2018-12,Dec-2018,USD,US Dollar,9,Billions,,,1.90458
+9858,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-01,Jan-2019,USD,US Dollar,9,Billions,,,-4.625277
+9859,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-02,Feb-2019,USD,US Dollar,9,Billions,,,1.363944
+9860,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-03,Mar-2019,USD,US Dollar,9,Billions,,,1.488307
+9861,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-04,Apr-2019,USD,US Dollar,9,Billions,,,1.509703
+9862,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-05,May-2019,USD,US Dollar,9,Billions,,,0.957455
+9863,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-06,Jun-2019,USD,US Dollar,9,Billions,,,2.54115
+9864,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-07,Jul-2019,USD,US Dollar,9,Billions,,,-1.29003
+9865,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-08,Aug-2019,USD,US Dollar,9,Billions,,,0.402174
+9866,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-09,Sep-2019,USD,US Dollar,9,Billions,,,-0.15218800000000002
+9867,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-10,Oct-2019,USD,US Dollar,9,Billions,,,-0.68775
+9868,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-11,Nov-2019,USD,US Dollar,9,Billions,,,0.767155
+9869,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2019-12,Dec-2019,USD,US Dollar,9,Billions,,,3.133873
+9870,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2020-01,Jan-2020,USD,US Dollar,9,Billions,,,-2.481098
+9871,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2020-02,Feb-2020,USD,US Dollar,9,Billions,,,2.867994
+9872,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2020-03,Mar-2020,USD,US Dollar,9,Billions,,,3.335532
+9873,XTNTVA01,Net trade in goods (value),CXML,US-Dollar converted,M,Monthly,2020-04,Apr-2020,USD,US Dollar,9,Billions,,,-3.0874
+9874,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,727.9102
+9875,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,755.4511
+9876,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,764.648
+9877,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,727.8905
+9878,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,735.2474
+9879,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,737.1993
+9880,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,737.8135
+9881,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,749.7113
+9882,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,744.0521
+9883,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,732.5704
+9884,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,776.7639999999999
+9885,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,741.4825
+9886,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,722.6318
+9887,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,722.0665
+9888,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,723.0575
+9889,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,738.9343
+9890,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,715.1522
+9891,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,809.4999
+9892,XTEXVA01,Exports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,549.1926
+9893,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,754.7424
+9894,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,800.8697
+9895,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,761.1074
+9896,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,748.0867
+9897,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,735.9691
+9898,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,737.437
+9899,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,734.3896
+9900,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,737.449
+9901,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,722.2476
+9902,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,727.7173
+9903,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,748.9098
+9904,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,730.6674
+9905,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,715.556
+9906,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,707.7389999999999
+9907,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,697.8608
+9908,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,706.8502
+9909,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,689.9778
+9910,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,768.0363
+9911,XTIMVA01,Imports in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,652.6513
+9912,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,-26.8322
+9913,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,-45.41858
+9914,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,3.540671
+9915,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,-20.196170000000002
+9916,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,-0.7216088
+9917,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,-0.23768809999999999
+9918,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,3.423916
+9919,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,12.26222
+9920,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,21.804560000000002
+9921,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,4.853033
+9922,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,27.85414
+9923,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,10.81511
+9924,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,7.075839
+9925,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,14.327520000000002
+9926,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,25.19667
+9927,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,32.08416
+9928,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,25.17434
+9929,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,41.4636
+9930,XTNTVA01,Net trade in goods (value),NCMLSA,"National Currency, Seasonally adjusted",M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,-103.4587
+9931,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-10,Oct-2018,PC,Percentage,0,Units,,,-2.978631
+9932,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-11,Nov-2018,PC,Percentage,0,Units,,,-1.727285
+9933,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-12,Dec-2018,PC,Percentage,0,Units,,,2.046116
+9934,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-01,Jan-2019,PC,Percentage,0,Units,,,-0.44410320000000003
+9935,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-02,Feb-2019,PC,Percentage,0,Units,,,0.9759384
+9936,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-03,Mar-2019,PC,Percentage,0,Units,,,0.04052897
+9937,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-04,Apr-2019,PC,Percentage,0,Units,,,1.4442760000000001
+9938,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,0.831824
+9939,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,-1.420089
+9940,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,-0.5284158
+9941,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,2.600916
+9942,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,-4.009165
+9943,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,-1.305151
+9944,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,-0.01903431
+9945,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,1.225162
+9946,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,3.850014
+9947,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,-3.353094
+9948,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,-3.8825239999999996
+9949,XTEXVA01,Exports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,-37.67107
+9950,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-10,Oct-2018,PC,Percentage,0,Units,,,-0.05989248
+9951,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-11,Nov-2018,PC,Percentage,0,Units,,,0.477196
+9952,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2018-12,Dec-2018,PC,Percentage,0,Units,,,-4.186801999999999
+9953,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-01,Jan-2019,PC,Percentage,0,Units,,,2.7941759999999998
+9954,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-02,Feb-2019,PC,Percentage,0,Units,,,-1.6536919999999997
+9955,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-03,Mar-2019,PC,Percentage,0,Units,,,-0.02533609
+9956,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-04,Apr-2019,PC,Percentage,0,Units,,,0.940966
+9957,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,-0.3549587
+9958,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,-2.717849
+9959,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,1.795759
+9960,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,-0.4185782
+9961,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,-1.8911630000000001
+9962,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,-0.8250011
+9963,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,-1.033842
+9964,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,-0.3244712
+9965,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,2.92766
+9966,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,-2.522787
+9967,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,-5.478494
+9968,XTIMVA01,Imports in goods (value),GPSA,Percentage change from previous period,M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,-21.93052
+9969,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-10,Oct-2018,PC,Percentage,0,Units,,,9.18603
+9970,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-11,Nov-2018,PC,Percentage,0,Units,,,3.558586
+9971,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-12,Dec-2018,PC,Percentage,0,Units,,,4.615604
+9972,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-01,Jan-2019,PC,Percentage,0,Units,,,5.688264
+9973,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-02,Feb-2019,PC,Percentage,0,Units,,,3.432554
+9974,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-03,Mar-2019,PC,Percentage,0,Units,,,0.3495483
+9975,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-04,Apr-2019,PC,Percentage,0,Units,,,4.1169150000000005
+9976,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,7.370276
+9977,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,4.38314
+9978,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,3.3224940000000003
+9979,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,4.184396
+9980,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,-3.3389889999999998
+9981,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,-1.6717240000000002
+9982,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,0.03749259
+9983,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,-0.7673025
+9984,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,3.5128739999999996
+9985,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,-0.9249216999999998
+9986,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,-4.810114
+9987,XTEXVA01,Exports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,-41.51386
+9988,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-10,Oct-2018,PC,Percentage,0,Units,,,8.921963
+9989,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-11,Nov-2018,PC,Percentage,0,Units,,,10.17583
+9990,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2018-12,Dec-2018,PC,Percentage,0,Units,,,0.1408007
+9991,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-01,Jan-2019,PC,Percentage,0,Units,,,6.170726
+9992,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-02,Feb-2019,PC,Percentage,0,Units,,,2.2324509999999997
+9993,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-03,Mar-2019,PC,Percentage,0,Units,,,-1.382789
+9994,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-04,Apr-2019,PC,Percentage,0,Units,,,2.129409
+9995,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-05,May-2019,PC,Percentage,0,Units,,,-0.3352493
+9996,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-06,Jun-2019,PC,Percentage,0,Units,,,-3.359365
+9997,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-07,Jul-2019,PC,Percentage,0,Units,,,-2.107863
+9998,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-08,Aug-2019,PC,Percentage,0,Units,,,-2.278816
+9999,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-09,Sep-2019,PC,Percentage,0,Units,,,-5.3715720000000005
+10000,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-10,Oct-2019,PC,Percentage,0,Units,,,-6.0960160000000005
+10001,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-11,Nov-2019,PC,Percentage,0,Units,,,-7.508202000000001
+10002,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2019-12,Dec-2019,PC,Percentage,0,Units,,,-3.77976
+10003,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-01,Jan-2020,PC,Percentage,0,Units,,,-3.654813
+10004,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-02,Feb-2020,PC,Percentage,0,Units,,,-4.506223
+10005,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-03,Mar-2020,PC,Percentage,0,Units,,,-9.71497
+10006,XTIMVA01,Imports in goods (value),GYSA,Percentage change on the same period of the previous year,M,Monthly,2020-04,Apr-2020,PC,Percentage,0,Units,,,-30.171999999999997
+15788,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,2322.385
+15789,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,2071.644
+15790,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,2275.147
+15791,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,2258.021
+15792,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,2248.43
+15793,XTEXVA01,Exports in goods (value),NCML,National Currency,Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,2167.616
+15794,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,2387.445
+15795,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,2105.506
+15796,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,2179.465
+15797,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,2277.624
+15798,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,2187.113
+15799,XTIMVA01,Imports in goods (value),NCML,National Currency,Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,2086.4210000000003
+16179,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,790.4984
+16180,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,779.0973
+16181,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,752.7897
+16182,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,624.8439
+16183,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,697.8404
+16184,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,748.96
+16185,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,749.6503
+16186,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,796.7827
+16187,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,728.7145
+16188,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,744.06
+16189,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,787.2241
+16190,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,726.7373
+16191,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,786.7662
+16192,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,722.7306
+16193,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,738.933
+16194,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,630.6356
+16195,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,687.9945
+16196,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,848.9857
+16197,XTEXVA01,Exports in goods (value),NCML,National Currency,M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,563.5981
+16198,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,846.5922
+16199,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,826.1968
+16200,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,714.6556
+16201,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,713.3939999999999
+16202,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,671.7189
+16203,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,720.3927
+16204,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,721.0611
+16205,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,778.5110000000001
+16206,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,679.8929
+16207,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,768.5917
+16208,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,779.3204
+16209,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,729.7115
+16210,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,800.0386
+16211,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,707.9345
+16212,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,679.1398
+16213,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,677.22
+16214,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,634.0708
+16215,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,775.1302
+16216,XTIMVA01,Imports in goods (value),NCML,National Currency,M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,638.0078
+18031,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2018-Q4,Q4-2018,NATCUR,National currency,9,Billions,,,-65.05923
+18032,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2019-Q1,Q1-2019,NATCUR,National currency,9,Billions,,,-33.86139
+18033,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2019-Q2,Q2-2019,NATCUR,National currency,9,Billions,,,95.6825
+18034,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2019-Q3,Q3-2019,NATCUR,National currency,9,Billions,,,-19.60229
+18035,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2019-Q4,Q4-2019,NATCUR,National currency,9,Billions,,,61.31685
+18036,XTNTVA01,Net trade in goods (value),NCML,National Currency,Q,Quarterly,2020-Q1,Q1-2020,NATCUR,National currency,9,Billions,,,81.19478000000001
+18202,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2018-10,Oct-2018,NATCUR,National currency,9,Billions,,,-56.09373000000001
+18203,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2018-11,Nov-2018,NATCUR,National currency,9,Billions,,,-47.099579999999996
+18204,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2018-12,Dec-2018,NATCUR,National currency,9,Billions,,,38.13409
+18205,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-01,Jan-2019,NATCUR,National currency,9,Billions,,,-88.55017
+18206,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-02,Feb-2019,NATCUR,National currency,9,Billions,,,26.12148
+18207,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-03,Mar-2019,NATCUR,National currency,9,Billions,,,28.5673
+18208,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-04,Apr-2019,NATCUR,National currency,9,Billions,,,28.58922
+18209,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-05,May-2019,NATCUR,National currency,9,Billions,,,18.2717
+18210,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-06,Jun-2019,NATCUR,National currency,9,Billions,,,48.82157
+18211,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-07,Jul-2019,NATCUR,National currency,9,Billions,,,-24.53173
+18212,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-08,Aug-2019,NATCUR,National currency,9,Billions,,,7.903708
+18213,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-09,Sep-2019,NATCUR,National currency,9,Billions,,,-2.974263
+18214,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-10,Oct-2019,NATCUR,National currency,9,Billions,,,-13.27246
+18215,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-11,Nov-2019,NATCUR,National currency,9,Billions,,,14.796079999999998
+18216,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2019-12,Dec-2019,NATCUR,National currency,9,Billions,,,59.79322
+18217,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2020-01,Jan-2020,NATCUR,National currency,9,Billions,,,-46.58445
+18218,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2020-02,Feb-2020,NATCUR,National currency,9,Billions,,,53.923730000000006
+18219,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2020-03,Mar-2020,NATCUR,National currency,9,Billions,,,73.8555
+18220,XTNTVA01,Net trade in goods (value),NCML,National Currency,M,Monthly,2020-04,Apr-2020,NATCUR,National currency,9,Billions,,,-74.40957
